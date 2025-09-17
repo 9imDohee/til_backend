@@ -1,0 +1,56 @@
+package com.ssafy.servlet;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import java.io.IOException;
+
+import java.io.IOException;
+import java.io.OutputStream;
+import java.io.PrintWriter;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.ServletOutputStream;
+import jakarta.servlet.ServletRequest;
+import jakarta.servlet.ServletResponse;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
+@WebServlet("/view")
+
+// 생명주기 (life-cycle) : 사용자가 요청을 보내었을 때 서블릿이 로드가 필요하다 생각이되면 서블릿 로드!
+//                         init() 딱 한번만 실행! (싱글톤) -> service -> service -> ... -> destory() 리소스 해제!
+public class ViewerServlet extends HttpServlet {
+    private static final long serialVersionUID = 1L;
+    
+    int view = 0; // 인스턴스 변수인데 어떻게 사용하는거지...?
+    @Override
+    public void init() throws ServletException {
+        System.out.println("초기화 했어요!");
+    }
+    // 서블릿에 요청을 보내게 되면 초기에 실행되는 메서드 service
+    @Override
+    public void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        System.out.println("Service 호출");
+        PrintWriter writer = resp.getWriter();
+//        writer.println("Hello World!");
+        writer.println("<html>");
+        writer.println("<head></head>");
+        writer.println("<body>");
+        writer.println("<h1>view count: " +  view + "</h1>");
+        writer.println("</body>");
+        writer.println("</html>");
+        writer.flush();
+        
+         view++;
+    }
+    
+    @Override
+    public void destroy() {
+        System.out.println("소멸하네요 ㅠㅠ 잘있어 ㅠ");
+    }
+}

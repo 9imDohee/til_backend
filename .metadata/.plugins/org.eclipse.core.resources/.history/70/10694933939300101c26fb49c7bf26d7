@@ -1,0 +1,32 @@
+package com.ssafy.myservlet;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
+public class MyServlet extends HttpServlet {
+	// 객체직렬화를 위한 UID를 설정하지 않으면 노란줄
+
+	// doXXX 한 개는 존재해야 함
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html;charset=UTF-8");
+		PrintWriter writer = response.getWriter();
+
+		writer.write("<html>");
+		writer.write("<head>");
+		writer.write("<title>Hell01 SSAFY</title>");
+		writer.write("</head>");
+		writer.write("<body>");
+		writer.write("<h1> Hello! Servlet!</h1><br>");
+		writer.write("<p>Hello! SSAFY</p>");
+		writer.write("</body>");
+		writer.write("</html>");
+
+		
+	}
+
+}
