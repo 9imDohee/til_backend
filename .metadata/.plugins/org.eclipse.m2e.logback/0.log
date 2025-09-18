@@ -201,3 +201,201 @@
 2025-09-17 16:31:59,701 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_01_c\src\main\resources
 2025-09-17 16:31:59,703 [Worker-220: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-09-17 16:31:59,704 [Worker-220: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_01_c\src\test\resources
+2025-09-17 17:24:09,021 [ModalContext] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_hw_01_4': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_hw_01_4/ -> https://lab.ssafy.com/kdhwh09/back_db_hw_01_4.git/
+2025-09-17 17:24:22,184 [Worker-232: Cloning from https://lab.ssafy.com/kdhwh09/back_db_hw_01_4] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_hw_01_4': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_hw_01_4/ -> https://lab.ssafy.com/kdhwh09/back_db_hw_01_4.git/
+2025-09-17 17:24:55,730 [Worker-233: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-17 17:24:55,782 [Worker-233: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: back_hw_01_4:back_hw_01_4:0.0.1-SNAPSHOT @ C:\Users\SSAFY\git\back_db_hw_01_4\pom.xml.
+2025-09-17 17:24:55,927 [Worker-233: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_hw_01_4/src/main/java
+2025-09-17 17:24:55,928 [Worker-233: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_hw_01_4/src/main/resources
+2025-09-17 17:24:55,928 [Worker-233: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_hw_01_4/src/test/java
+2025-09-17 17:24:55,929 [Worker-233: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_hw_01_4/src/test/resources
+2025-09-17 17:24:56,432 [Worker-233: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-09-17 17:24:56,609 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:24:56,610 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:24:56,611 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:24:56,612 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:24:57,651 [Worker-235: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:24:57,652 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:24:57,654 [Worker-235: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:24:57,654 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:28:08,318 [Worker-239: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:28:08,320 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:28:08,320 [Worker-239: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:28:08,321 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:28:23,523 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:28:23,524 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:28:23,526 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:28:23,527 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:29:34,942 [Worker-239: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:29:34,944 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:29:34,945 [Worker-239: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:29:34,946 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:44:02,941 [Worker-240: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:44:02,943 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:44:02,945 [Worker-240: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:44:02,946 [Worker-240: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:50:04,808 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:50:04,809 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:50:04,811 [Worker-236: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:50:04,812 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:51:37,477 [Worker-242: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:51:37,478 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:51:37,481 [Worker-242: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:51:37,481 [Worker-242: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:52:30,294 [Worker-244: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:52:30,295 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:52:30,296 [Worker-244: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:52:30,297 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-17 17:53:31,065 [Worker-243: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:53:31,066 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-17 17:53:31,067 [Worker-243: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-17 17:53:31,068 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-18 09:03:46,853 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-09-18 10:07:59,473 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-18 11:48:21,638 [ModalContext] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_ws_02_a': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_ws_02_a/ -> https://lab.ssafy.com/kdhwh09/back_db_ws_02_a.git/
+2025-09-18 11:48:34,531 [Worker-62: Cloning from https://lab.ssafy.com/kdhwh09/back_db_ws_02_a] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_ws_02_a': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_ws_02_a/ -> https://lab.ssafy.com/kdhwh09/back_db_ws_02_a.git/
+2025-09-18 11:49:04,298 [Worker-61: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-18 11:49:05,784 [Worker-61: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: back_db_ws_02_a:back_db_ws_02_a:0.0.1-SNAPSHOT @ C:\Users\SSAFY\git\back_db_ws_02_a\pom.xml.
+2025-09-18 11:49:07,570 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:49:07,571 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:49:07,576 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:49:07,577 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:49:08,346 [Worker-61: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_ws_02_a/src/main/java
+2025-09-18 11:49:08,349 [Worker-61: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_ws_02_a/src/main/resources
+2025-09-18 11:49:08,351 [Worker-61: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_ws_02_a/src/test/java
+2025-09-18 11:49:08,353 [Worker-61: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_ws_02_a/src/test/resources
+2025-09-18 11:49:09,130 [Worker-61: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 2.00 sec 
+2025-09-18 11:49:09,366 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:49:09,368 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:49:09,370 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:49:09,371 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:49:10,404 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:49:10,405 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:49:10,408 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:49:10,409 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:49:52,475 [ModalContext] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_ws_02_b': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_ws_02_b/ -> https://lab.ssafy.com/kdhwh09/back_db_ws_02_b.git/
+2025-09-18 11:50:03,135 [Worker-63: Cloning from https://lab.ssafy.com/kdhwh09/back_db_ws_02_b] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_ws_02_b': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_ws_02_b/ -> https://lab.ssafy.com/kdhwh09/back_db_ws_02_b.git/
+2025-09-18 11:50:17,123 [Worker-67: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-18 11:50:17,177 [Worker-67: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: back_db_ws_02_b:back_db_ws_02_b:0.0.1-SNAPSHOT @ C:\Users\SSAFY\git\back_db_ws_02_b\pom.xml.
+2025-09-18 11:50:17,290 [Worker-67: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_ws_02_b/src/main/java
+2025-09-18 11:50:17,292 [Worker-67: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_ws_02_b/src/main/resources
+2025-09-18 11:50:17,292 [Worker-67: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_ws_02_b/src/test/java
+2025-09-18 11:50:17,293 [Worker-67: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_ws_02_b/src/test/resources
+2025-09-18 11:50:17,819 [Worker-67: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-09-18 11:50:17,951 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:50:17,953 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 11:50:17,955 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:50:17,956 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 11:50:18,992 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:50:18,994 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 11:50:18,995 [Worker-64: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:50:18,997 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 11:50:44,556 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:50:44,558 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:50:44,560 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:50:44,562 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:51:18,649 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:51:18,650 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:51:18,652 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:51:18,654 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:51:57,937 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:51:57,938 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:51:57,942 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:51:57,943 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:52:52,548 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:52:52,548 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:52:52,550 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:52:52,553 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:54:20,010 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:54:20,011 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:54:20,013 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:54:20,014 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 11:55:21,303 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:55:21,304 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\main\resources
+2025-09-18 11:55:21,306 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 11:55:21,306 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_a\src\test\resources
+2025-09-18 13:00:55,914 [ModalContext] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_ws_02_c': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_ws_02_c/ -> https://lab.ssafy.com/kdhwh09/back_db_ws_02_c.git/
+2025-09-18 13:01:08,524 [Worker-86: Cloning from https://lab.ssafy.com/kdhwh09/back_db_ws_02_c] INFO  o.e.jgit.transport.TransportHttp - URI 'https://lab.ssafy.com/kdhwh09/back_db_ws_02_c': following HTTP redirect #0  https://lab.ssafy.com/kdhwh09/back_db_ws_02_c/ -> https://lab.ssafy.com/kdhwh09/back_db_ws_02_c.git/
+2025-09-18 13:01:24,174 [Worker-90: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-18 13:01:24,302 [Worker-90: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: back_db_ws_02_c:back_db_ws_02_c:0.0.1-SNAPSHOT @ C:\Users\SSAFY\git\back_db_ws_02_c\pom.xml.
+2025-09-18 13:01:24,436 [Worker-90: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_ws_02_c/src/main/java
+2025-09-18 13:01:24,437 [Worker-90: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_ws_02_c/src/main/resources
+2025-09-18 13:01:24,438 [Worker-90: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back_db_ws_02_c/src/test/java
+2025-09-18 13:01:24,438 [Worker-90: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back_db_ws_02_c/src/test/resources
+2025-09-18 13:01:25,020 [Worker-90: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-09-18 13:01:25,187 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:01:25,188 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:01:25,189 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:01:25,190 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:01:26,243 [Worker-89: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:01:26,244 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:01:26,246 [Worker-89: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:01:26,246 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:09:43,853 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:09:43,855 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 13:09:43,857 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:09:43,857 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 13:11:25,058 [Worker-93: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:11:25,060 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 13:11:25,061 [Worker-93: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:11:25,062 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 13:11:28,199 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:11:28,200 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 13:11:28,203 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:11:28,204 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 13:13:07,389 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:13:07,390 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 13:13:07,392 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:13:07,394 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 13:13:26,740 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:13:26,741 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 13:13:26,743 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:13:26,746 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 13:13:38,658 [Worker-90: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:13:38,659 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 13:13:38,661 [Worker-90: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:13:38,662 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 13:14:26,081 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:14:26,082 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\main\resources
+2025-09-18 13:14:26,083 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:14:26,084 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_b\src\test\resources
+2025-09-18 13:16:50,217 [Worker-97: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:16:50,218 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:16:50,220 [Worker-97: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:16:50,220 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:16:52,299 [Worker-90: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:16:52,300 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:16:52,302 [Worker-90: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:16:52,302 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:21:34,133 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:21:34,134 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:21:34,135 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:21:34,137 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:22:03,039 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:22:03,040 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:22:03,042 [Worker-103: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:22:03,043 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:23:26,560 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:23:26,561 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:23:26,563 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:23:26,564 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:27:13,848 [Worker-97: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:27:13,849 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:27:13,851 [Worker-97: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:27:13,852 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:35:10,148 [Worker-110: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:35:10,149 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\main\resources
+2025-09-18 13:35:10,151 [Worker-110: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:35:10,152 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_ws_02_c\src\test\resources
+2025-09-18 13:39:51,762 [Worker-111: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:39:51,764 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-18 13:39:51,766 [Worker-111: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:39:51,767 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-18 13:40:10,730 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:40:10,732 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-18 13:40:10,734 [Worker-115: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:40:10,735 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
+2025-09-18 13:41:32,871 [Worker-116: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:41:32,872 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\main\resources
+2025-09-18 13:41:32,874 [Worker-116: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-18 13:41:32,875 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SSAFY\git\back_db_hw_01_4\src\test\resources
