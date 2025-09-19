@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 @WebServlet("/hello") //URL 매핑
+//http://localhost:8080/BackEnd_Servlet00_Hello/hello
 public class HelloServlet extends HttpServlet { // httpServlet 클래스를 상속
 	// 객체직렬화를 위한 UID를 설정하지 않으면 노란줄
 	private static final long serialVersionUID = 1L;
