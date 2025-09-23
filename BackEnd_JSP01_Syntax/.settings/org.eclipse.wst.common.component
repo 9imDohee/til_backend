@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-            
+                
     
-    <wb-module deploy-name="BackEnd_JSP01_Syntax">
-                        
+    
+    <wb-module deploy-name="JSP01_Syntax">
+                                
+        
         
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-                        
+                                
+        
         
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-                        
+                                
         
-        <property name="java-output-path" value="/BackEnd_JSP01_Syntax/build/classes"/>
-        <property name="context-root" value="BackEnd_JSP01_Syntax"/>
-                    
+        
+        <property name="java-output-path" value="/JSP01_Syntax/build/classes"/>
+        <property name="context-root" value="JSP01_Syntax"/>
+                            
+    
     
     </wb-module>
-        
+            
+
 
 </project-modules>
