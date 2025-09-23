@@ -20,7 +20,7 @@ public class UserListServlet extends HttpServlet {
 		String[][] users = { 
 				{ "홍길동", "hong@email.com", "2023-01-15" },
 				{ "김철수", "kim@email.com", "2023-02-20" },
-				{ "이영희", "lee@email.com", "2023-03-10" }, 
+				{ "한영희", "lee@email.com", "2023-03-10" }, 
 				{ "박민수", "park@email.com", "2023-04-05" },
 				{ "최수정", "choi@email.com", "2023-05-12" } 
 		};

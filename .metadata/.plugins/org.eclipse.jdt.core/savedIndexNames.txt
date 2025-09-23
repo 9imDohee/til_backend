@@ -4,7 +4,6 @@ INDEX VERSION 1.134+C:\Users\SSAFY\Desktop\til_backend\.metadata\.plugins\org.ec
 638733287.index
 3526686678.index
 4220637766.index
-2611133824.index
 4045115888.index
 1865797976.index
 2405507140.index
