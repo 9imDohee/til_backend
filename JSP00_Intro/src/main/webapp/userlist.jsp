@@ -1,3 +1,8 @@
+<!-- 
+JSP
+- HTML 문서가 주축이 되고 동적인 데이터가 필요한 부분에만 <% %>를 사용하여 자바 코드를 삽입하는 방식
+- 서버에서 최초로 실행될 때 결국 서블릿 자바 코드로 자동 변환된 후 실행됨
+  -->
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>

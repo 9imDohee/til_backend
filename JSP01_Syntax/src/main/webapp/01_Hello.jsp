@@ -8,7 +8,7 @@
 </head>
 <body>
 	<%
-	String name = "양띵균";
+	String name = "kdh";
 	%>
 	<h2>Hello JSP</h2>
 	<h4>

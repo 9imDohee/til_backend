@@ -7,6 +7,11 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
+/*
+ * 서블릿 (자바 코드안에 html)
+ * - 자바 코드가 주축
+ * - writer.println()등을 이용해 그 안에 필요한 HTML 코드를 문자열로써 출력하는 방식
+ */
 @WebServlet("/userlist")
 public class UserListServlet extends HttpServlet {
 

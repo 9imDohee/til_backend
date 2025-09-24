@@ -3,7 +3,7 @@
 
 <%!int A = 20;
 	int B = -20;
-	String name = "name";
+	String name = "kdh";
 
 	int abs(int a) {
 		return a > 0 ? a : -a;
@@ -13,14 +13,19 @@
 <head>
 <meta charset="UTF-8">
 <title>표현식</title>a 
-	<div>표현식? 변수의 값이나 계산식 혹은 함수를 호출한 결과를 문자열 형태로 웹문서에 출력</div>
+	<div>표현식?<br>
+	 변수의 값이나 계산식 혹은 함수를 호출한 결과를 문자열 형태로 웹문서에 출력</div>
 
 	<%
 	out.print(name);
 	%>
+	<br>
 	<%=name%>
+	<br>
 	<%=A + B%>
+	<br>
 	<%=abs(B)%>
+	<br>
 	<a href="index.html">홈으로</a>
 </body>
 </html>
