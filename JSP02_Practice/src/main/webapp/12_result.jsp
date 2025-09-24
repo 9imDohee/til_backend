@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ page import="com.ssafy.dto.Person" %>   
+<%@ page import="com.dto.Person" %>   
 <%@ page import="java.util.Arrays" %>   
  
 <!DOCTYPE html>

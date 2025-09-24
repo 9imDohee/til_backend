@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" id="WebApp_ID" version="6.0">
-  <display-name>Servlet01_Servlet</display-name>
+  <display-name>Servlet01</display-name>
+  <!-- 서블릿 등록 -->
   <servlet>
-    <servlet-name>MyServlet</servlet-name>
+  	<!-- MyServlet2를 web.xml 파일 안에서 식별하기 위한 별명 (ID) -->
+    <servlet-name>myServlet2</servlet-name>
+    <!-- 톰캣에게 실행할 서블릿이 어떤 패키지에 있는 어떤 클래스인지 정확한 경로 알려주기 -->
+    <servlet-class>com.myservlet.MyServlet2</servlet-class>
   </servlet>
+
+  <!-- 태그 (URL) 연결 -->
   <servlet-mapping>
-    <servlet-name>MyServlet</servlet-name>
-    <url-pattern>MyServlet1</url-pattern>
+  	<!-- 위에서 등록한 서블릿의 별명을 그대로 가져와 어떤 서블릿을 URL과 연결할지 지정 -->
+    <servlet-name>myServlet2</servlet-name> 
+    <!-- 사용자가 실제로 웹 브라우저 주소창에 url 경로를 /my2로 접속하면 MyServlet2가 실행됨 -->
+    <url-pattern>my2</url-pattern>
   </servlet-mapping>
 </web-app>

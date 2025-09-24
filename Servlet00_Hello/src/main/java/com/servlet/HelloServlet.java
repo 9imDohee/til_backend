@@ -1,0 +1,48 @@
+package com.servlet;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+@WebServlet("/hello") //URL 매핑
+//http://localhost:8080/BackEnd_Servlet00_Hello/hello
+public class HelloServlet extends HttpServlet { // httpServlet 클래스를 상속
+	// 객체직렬화를 위한 UID를 설정하지 않으면 노란줄
+	private static final long serialVersionUID = 1L;
+
+
+	@Override
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html;charset=UTF-8");
+		PrintWriter writer = response.getWriter();
+		writer.write("<html>");
+		writer.write("<head>");
+		writer.write("<title>Hell01 SSAFY</title>");
+		writer.write("</head>");
+		writer.write("<body>");
+		writer.write("<h1> Hello! Servlet!</h1><br>");
+
+		writer.write("<p>Hello! world!</p>");
+		writer.write("</body>");
+		writer.write("</html>");
+
+		//Java 15 버전에 나온 Block String
+		//		writer.write("""
+		//		<html>
+		//		  <head><title>Hello! SSAFY!</title></head>
+		//		  <body>
+		//		    <h1>Hello! Servlet!</h1>
+		//		  </body>
+		//		</html>
+		//		""");
+
+
+	}
+
+
+
+}
