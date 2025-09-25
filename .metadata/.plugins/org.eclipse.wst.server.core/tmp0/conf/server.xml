@@ -142,7 +142,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\SSAFY\Desktop\til_backend\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\SSAFY\Desktop\til_backend\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSP01_Syntax" path="/JSP01_Syntax" reloadable="true" source="org.eclipse.jst.jee.server:JSP01_Syntax"/><Context docBase="C:\Users\SSAFY\Desktop\til_backend\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSP05_EL_JSTL" path="/JSP05_EL_JSTL" reloadable="true" source="org.eclipse.jst.jee.server:JSP05_EL_JSTL"/></Host>
+      <Context docBase="C:\Users\SSAFY\Desktop\til_backend\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\SSAFY\Desktop\til_backend\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSP06_Filter" path="/JSP06_Filter" reloadable="true" source="org.eclipse.jst.jee.server:JSP06_Filter"/></Host>
     </Engine>
   </Service>
 </Server>
